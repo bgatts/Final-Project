@@ -1,0 +1,22 @@
+.image{
+    max-width: 600px;
+    max-height: 600px;
+    ;
+}
+.body{
+    padding:20px 20px;
+}
+.description{
+    padding-left: 15px;
+    padding-top: 20px;
+    font-family: Verdan;
+}
+
+.postcoard{
+    border-radius: 30px;
+}
+
+.gap{
+    padding-left:20px;
+    
+}
